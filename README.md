@@ -3,7 +3,7 @@
 
 Tools used : Jupyter Notebook 
 
-Libraries Used : Pandas, Seaborn, Mathplotlib
+Libraries Used : Pandas, Seaborn, Mathplotlib, NumPy
 
 
 To verify certification [click here](https://www.coursera.org/account/accomplishments/verify/HRBPPW68UYWP)
